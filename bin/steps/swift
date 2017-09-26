@@ -22,7 +22,7 @@ if [[ $UBUNTU_RELEASE == *"15.10"* ]];
 then
     OS="ubuntu1510";
 else
-    OS="ubuntu1404";
+    OS="ubuntu1610";
 fi
 echo "🖥  Operating System: $OS";
 
